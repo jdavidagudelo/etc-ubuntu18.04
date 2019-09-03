@@ -1,0 +1,2 @@
+deb  [arch=amd64] https://repositories.scylladb.com/scylla/downloads/scylladb/0b9b2d85-3c48-4662-9f4e-ae7c14c59acc/scylla/deb/ubuntu/scylladb-3.0 bionic multiverse
+deb http://ppa.launchpad.net/scylladb/ppa/ubuntu bionic main
