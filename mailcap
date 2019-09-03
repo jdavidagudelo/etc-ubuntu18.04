@@ -416,6 +416,8 @@ application/vnd.oasis.opendocument.spreadsheet-flat-xml; libreoffice %s; test=te
 application/vnd.oasis.opendocument.graphics-flat-xml; libreoffice %s; test=test -n "$DISPLAY"
 application/vnd.oasis.opendocument.presentation-flat-xml; libreoffice %s; test=test -n "$DISPLAY"
 application/x-desktop; lxshortcut -i %s; test=test -n "$DISPLAY"
+application/x-ms-dos-executable; mono %s; test=test -n "$DISPLAY"
+application/x-ms-dos-executable; mono %s; needsterminal
 application/x-cd-image; /usr/lib/gvfs/gvfsd-archive file=%s; test=test -n "$DISPLAY"
 application/x-bzip-compressed-tar; /usr/lib/gvfs/gvfsd-archive file=%s; test=test -n "$DISPLAY"
 application/x-compressed-tar; /usr/lib/gvfs/gvfsd-archive file=%s; test=test -n "$DISPLAY"
