@@ -45,7 +45,7 @@ deb-src http://us.archive.ubuntu.com/ubuntu/ bionic-backports main restricted un
 ## This software is not part of Ubuntu, but is offered by Canonical and the
 ## respective vendors as a service to Ubuntu users.
 deb http://archive.canonical.com/ubuntu bionic partner
-deb-src http://archive.canonical.com/ubuntu bionic partner
+# deb-src http://archive.canonical.com/ubuntu bionic partner
 
 deb http://us.archive.ubuntu.com/ubuntu/ bionic-security main restricted
 deb-src http://us.archive.ubuntu.com/ubuntu/ bionic-security main restricted multiverse universe #Added by software-properties
