@@ -54,3 +54,5 @@ deb http://us.archive.ubuntu.com/ubuntu/ bionic-security universe
 # deb-src http://security.ubuntu.com/ubuntu bionic-security universe
 deb http://us.archive.ubuntu.com/ubuntu/ bionic-security multiverse
 # deb-src http://security.ubuntu.com/ubuntu bionic-security multiverse
+deb http://apt.llvm.org/xenial/ llvm-toolchain-xenial-6.0 main
+# deb-src http://apt.llvm.org/xenial/ llvm-toolchain-xenial-6.0 main
