@@ -72,3 +72,4 @@ ntp:!::
 scylla:!::
 systemd-coredump:!::
 lightdm:!::
+nopasswdlogin:!::
