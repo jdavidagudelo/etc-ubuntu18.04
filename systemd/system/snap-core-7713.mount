@@ -1,10 +1,10 @@
 [Unit]
-Description=Mount unit for core, revision 7270
+Description=Mount unit for core, revision 7713
 Before=snapd.service
 
 [Mount]
-What=/var/lib/snapd/snaps/core_7270.snap
-Where=/snap/core/7270
+What=/var/lib/snapd/snaps/core_7713.snap
+Where=/snap/core/7713
 Type=squashfs
 Options=nodev,ro,x-gdu.hide
 
