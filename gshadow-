@@ -75,3 +75,4 @@ lightdm:!::
 nopasswdlogin:!::
 docker:!::jdavidagudelo
 sddm:!::
+vboxusers:!::

@@ -75,4 +75,3 @@ lightdm:x:134:
 nopasswdlogin:x:135:
 docker:x:136:jdavidagudelo
 sddm:x:137:
-vboxusers:x:138:
