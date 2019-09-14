@@ -74,3 +74,4 @@ systemd-coredump:x:133:
 lightdm:x:134:
 nopasswdlogin:x:135:
 docker:x:136:jdavidagudelo
+sddm:x:137:

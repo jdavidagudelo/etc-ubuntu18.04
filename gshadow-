@@ -74,3 +74,4 @@ systemd-coredump:!::
 lightdm:!::
 nopasswdlogin:!::
 docker:!::jdavidagudelo
+sddm:!::
